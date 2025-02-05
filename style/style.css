@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+
+
+
+.sora-fonts{
+   font-family: "Sora", serif;
+   font-optical-sizing: auto;
+   font-weight: <weight>;
+   font-style: normal;
+ }
+
+.ff{
+   background-color: #EFEBE3;
+   background-color: burlywood;
+}
+ 
